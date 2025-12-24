@@ -17,6 +17,7 @@ function Header() {
         <Link to="/about">About</Link>
         <Link to="/saved">Your Hospitals</Link>
       </nav>
+      <meta name="google-adsense-account" content="ca-pub-7476347318351805">
       <div className="auth-buttons">
           {/* Log In removed */}
           <button className="signup" onClick={() => setShowModal(true)}>Sign Up</button>
