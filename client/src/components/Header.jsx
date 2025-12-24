@@ -21,6 +21,8 @@ function Header() {
           {/* Log In removed */}
           <button className="signup" onClick={() => setShowModal(true)}>Sign Up</button>
         </div>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7476347318351805"
+     crossorigin="anonymous"></script>
       </header>
       <SignUpModal isOpen={showModal} onClose={() => setShowModal(false)} />
     </>
