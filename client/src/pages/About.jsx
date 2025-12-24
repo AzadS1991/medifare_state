@@ -19,6 +19,10 @@ function About() {
         *At present, we are offering Medicare transparency data with the implication that the Medicare price is often the lowest payment amount, whereas the total payment amount reflects an average of negotiated prices with private insurers. 
         </p>
       </div>
+        <p>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7476347318351805"
+     crossorigin="anonymous"></script>
+        </p>
     </div>
   );
 }
